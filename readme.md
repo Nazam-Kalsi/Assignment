@@ -1,4 +1,4 @@
-# GoCardless sample application
+# User Auth
 
 ## Setup
 
